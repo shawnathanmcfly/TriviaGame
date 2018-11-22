@@ -62,12 +62,11 @@
         color : gray;
     }
 
-     @media (max-width: 580px){
+     @media (max-width: 380px){
 
         #gameSpace {
             width: 95%;
             padding: 10px 0px 10px 10px;
         }
 
-        
      }
