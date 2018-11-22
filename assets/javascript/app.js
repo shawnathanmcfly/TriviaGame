@@ -12,6 +12,13 @@ class Question {
             ["What is the code to activate the ability to submerge your submarine?", "474", "*747", "666", "777"],
             ["What is the name of the protagonists submarine?", "Big Dipper", "Sub-See", "Sink-D", "*Sub-C"],
             ["What weapon does the protagonist obtain after the Island Yo-yo?", "*Morning Star", "Super Nova", "Torch", "Laser Gun"],
+            ["The submarine the main character travels in has a name. What is it?", "ROBOCOP", "COM-CAST", "ACE-COM", "*NAV-COM"],
+            ["When the main character needs to sneak into an all female castle, He changes into a female. What was his hair style?", "*Pig Tails", "Bun", "Dreads", "Pony Tail"],
+            ["What's the main characters name?", "Stan", "Blake", "*Mike", "Tom"],
+            ["What's the first enemy you encounter?", "Snake", "Squid", "*Slug", "Snail"],
+            ["The main character plays a sport, what is it?", "Soccer", "*Baseball", "Hockey", "Arm Wrestling"],
+            ["StarTropics has a constellation as one of it's themes, what is it?", "*Southern Cross", "Big Dipper", "Hydra", "Cancer"],
+            
     
         ];
         this.trackz = [ document.getElementById("wrong"), 
